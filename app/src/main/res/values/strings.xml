@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">CitasPedia</string>
     <string name="nombre">Nombre completo:</string>
+    <string name="edad">Edad:</string>
+    <string name="curp">Curp:</string>
+    <string name="motivoing">Motivo de ingreso:</string>
+    <string name="motivoles">Motivo de lesión:</string>
+    <string name="peso">Peso:</string>
+    <string name="temperatura">Temperatura:</string>
+    <string name="talla">Talla:</string>
+
+
 </resources>
